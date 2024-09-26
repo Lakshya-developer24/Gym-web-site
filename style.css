@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url(image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.navbar{
+    overflow: auto;
+}
+
+.logo{
+    float: left;
+    padding: 3px;
+    color: aquamarine;
+}
+
+.navbar ul{
+     margin: auto;
+    list-style: none;
+    margin-left: 28%;
+    height: 45px;
+    
+}
+
+.navbar ul li{
+    float: left;
+    padding: 3px;
+    margin-left: 9px;
+
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 34px;
+}
+
+
+.navbar ul li a:hover{
+    color: bisque;
+}
+
+
+.inputs{
+    float: none;
+    font-size: 30px;
+    padding: 6px;
+    margin-left: 50px;
+    opacity: 50%;
+    
+
+    
+}
+
+.form{
+   
+    margin: 0px 13%;
+    margin-top: 22%;
+    font-size: 40px;
+  
+}
+
+.inputs:hover{
+    background-color: white;
+    opacity: 100%;
+}
+
+
+h3{
+    color: aqua;
+    margin: 0px 3%;
+}
+
+.button{
+    font-size: 30px;
+    padding:0px 118px;
+    margin-left: 50px;
+   
+}
